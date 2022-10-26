@@ -252,7 +252,7 @@ function continueStatement(numero) {
         continue
       } else{
          suma += 2
-        contador.push(suma)}
+        contador.push(suma)} //
 
         } return contador
 
