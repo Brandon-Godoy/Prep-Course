@@ -14,7 +14,7 @@
 
 # HTML/CSS
 
-#### Fundamentos
+#### Fundamentos 
 
 En esta clase veremos:
 
